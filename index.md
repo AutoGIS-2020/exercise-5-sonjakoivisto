@@ -11,7 +11,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# MY MAP
+[this is link to my map](https://autogis-2020.github.io/exercise-5-sonjakoivisto/docs/test_map.html)
+
+
 ## Header 2
 ### Header 3
 
