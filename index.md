@@ -4,9 +4,8 @@ You can use the [editor on GitHub](https://github.com/AutoGIS-2020/exercise-5-so
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# MY MAP
+[this is link to my map](https://autogis-2020.github.io/exercise-5-sonjakoivisto/docs/test_map.html)
 
 ```markdown
 Syntax highlighted code block
